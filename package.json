@@ -1,0 +1,16 @@
+{
+  "name": "node-learning-project",
+  "version": "1.0.0",
+  "description": "Node Learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend",
+    "learning"
+  ],
+  "author": "Vikash Kumar",
+  "license": "ISC"
+}
